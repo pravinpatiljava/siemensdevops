@@ -17,6 +17,12 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
+		<repositories>
+		<repository>
+			<id>siemensintrarepot</id>
+			<url>https://localhost:8444/repository/siemensintrarepo/</url>
+		</repository>
+	</repositories>
 
 	<dependencies>
 		<dependency>

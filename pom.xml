@@ -22,13 +22,21 @@
 	<distributionManagement>
 		<repository>
 				<id>hosted</id>
+<<<<<<< HEAD
 				<url>https://example:8443/repository/siemenshosted/</url>
+=======
+				<url>http://localhost:8081/repository/siemenshosted/</url>
+>>>>>>> 03e595fe9993680a17ac91a8ce391de2a0aee3eb
 		</repository>
 	</distributionManagement>
 		<repositories>
 		<repository>
 			<id>siemensintrarepot</id>
+<<<<<<< HEAD
 			<url>https://example:8443/repository/siemensintrarepo/</url>
+=======
+			<url>http://localhost:8081/repository/siemensintrarepo/</url>
+>>>>>>> 03e595fe9993680a17ac91a8ce391de2a0aee3eb
 		</repository>
 	</repositories>
 
